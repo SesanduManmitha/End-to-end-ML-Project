@@ -60,3 +60,6 @@ if __name__ =="__main__":
 
     modelTrainer=ModelTrainer()
     print(modelTrainer.initiate_model_trainer(train_arr,test_arr))
+
+
+# python -m src.components.data_ingestion
